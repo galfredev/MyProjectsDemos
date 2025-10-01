@@ -28,7 +28,7 @@
 
 | # | Proyecto | Categoría | Dificultad | Demo | Código | Highlights |
 |---|---|---|---|---|---|---|
-| 01 | Blurry Loading | UI/Animación | ⭐ | https://galfredev.github.io/galfredev-blurry-loading/ | https://github.com/GalfreDev/galfredev-blurry-loading | Timing/FPS, `prefers-reduced-motion` |
+| 01 | Blurry Loading | UI/Animación | ⭐ | https://galfredev.github.io/galfredev-blurry-loading/ | https://github.com/galfredev/galfredev-blurry-loading.git | Timing/FPS, `prefers-reduced-motion` |
 | 02 | Custom Range Slider | Componentes/UX | ⭐ | https://galfredev.github.io/galfredev-range-slider/ | https://github.com/GalfreDev/galfredev-range-slider | Estilo accesible de input nativo |
 | 03 | Expanding Cards | UI/Animación | ⭐⭐ | https://galfredev.github.io/galfredev-expanding-cards/ | https://github.com/GalfreDev/galfredev-expanding-cards | Teclado/ARIA, dark mode, tests |
 | 04 | Scroll Animation | UI/Animación | ⭐⭐ | https://galfredev.github.io/galfredev-scroll-animation/ | https://github.com/GalfreDev/galfredev-scroll-animation | IntersectionObserver, rendimiento |
