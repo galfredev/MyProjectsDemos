@@ -15,10 +15,8 @@
 
 ## 🗂️ Índice
 - [Proyectos](#-proyectos)
-- [Detalles y checklist por proyecto](#-detalles-y-checklist-por-proyecto)
 - [Stack, convenciones y estructura](#-stack-convenciones-y-estructura)
 - [Cómo correr cualquier proyecto localmente](#-cómo-correr-cualquier-proyecto-localmente)
-- [Atribución](#-atribución)
 - [Licencia](#licencia)
 
 ---
